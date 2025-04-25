@@ -49,7 +49,7 @@ Our implementation uses separate ML models for treated and control populations, 
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/synapse.git
+git clone https://github.com/yourusername/UpliftIQ.git
 
 # Navigate to project directory
 cd synapse
